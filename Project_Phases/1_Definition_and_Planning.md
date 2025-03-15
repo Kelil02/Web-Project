@@ -66,11 +66,3 @@
 - **Preferred Device**:
   - Smartphone and tablet (to use during sessions with clients).
 """
-
-# Saving the content to a file in the specified repository
-file_path = '/mnt/data/1_Definition_and_Planning.md'
-
-with open(file_path, 'w') as file:
-    file.write(user_personas_content)
-
-file_path
