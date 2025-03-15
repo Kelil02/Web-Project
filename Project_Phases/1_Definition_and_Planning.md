@@ -29,7 +29,7 @@ Needs:
 
 
 Tech Savviness:
-Comfortable with using fitness apps and tracking tools.
+1. Comfortable with using fitness apps and tracking tools.
 
 
 Preferred Device:
