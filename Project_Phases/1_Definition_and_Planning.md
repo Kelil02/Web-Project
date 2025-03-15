@@ -65,4 +65,3 @@
   - Very tech-savvy, uses apps to manage clients and track their progress.
 - **Preferred Device**:
   - Smartphone.
-"""
