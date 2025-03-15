@@ -20,7 +20,7 @@
 - **Tech Savviness**:
   - Comfortable with using fitness apps and tracking tools.
 - **Preferred Device**:
-  - Smartphone (wants quick access to her workout and progress).
+  - Smartphone.
 
 ---
 
@@ -42,7 +42,7 @@
 - **Tech Savviness**:
   - Highly tech-savvy and loves using apps for tracking health data.
 - **Preferred Device**:
-  - Smartphone (also uses a smartwatch for fitness tracking).
+  - Smartphone.
 
 ---
 
@@ -64,5 +64,5 @@
 - **Tech Savviness**:
   - Very tech-savvy, uses apps to manage clients and track their progress.
 - **Preferred Device**:
-  - Smartphone and tablet (to use during sessions with clients).
+  - Smartphone.
 """
