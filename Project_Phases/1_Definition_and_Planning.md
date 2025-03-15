@@ -1,5 +1,3 @@
-# Let's create the content for the file '1_Definition_and_Planning.md'
-user_personas_content = """
 # Phase 1 - Definition and Planning
 
 ## 1. User Personas
