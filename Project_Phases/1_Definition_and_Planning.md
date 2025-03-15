@@ -6,7 +6,13 @@ Persona 1:
 
 Gym Goer (Customer)
 
-Name: Emma          Age: 26          Occupation: Marketing Specialist          Location: Helsinki
+Name: Emma       
+
+Age: 26         
+
+Occupation: Marketing Specialist          
+
+Location: Helsinki
 
 Goals:
 
