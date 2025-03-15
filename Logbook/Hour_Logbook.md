@@ -2,6 +2,6 @@
 
 | Date       | Hours Spent | Tasks Performed                      | Outcome                  |
 |------------|-------------|--------------------------------------|--------------------------|
-| 4.3.2025   | 2           | Planning Phase 1                     | Defined User Personas    |
+| 15.3.2025  | 4           | Planning Phase 1                     |                          |
 | (add more) |             |                                      |                          |
 
