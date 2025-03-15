@@ -10,27 +10,32 @@ Name: Emma
 
 Age: 26         
 
-Occupation: Marketing Specialist          
-
 Location: Helsinki
 
-Goals:
 
+Goals:
 1. Wants to lose weight and build muscle.
 2. Needs a way to track her daily workouts and nutrition intake.
 
-Challenges:
 
+Challenges:
 1. Struggles to stick to a consistent workout routine.
 2. Needs motivation and tracking features to stay on track.
 
+
 Needs:
 An easy-to-use app to log workouts, set goals, and track progress.
-Nutrition tracking features to monitor calories and macros.
+Nutrition tracking.
+
+
 Tech Savviness:
 Comfortable with using fitness apps and tracking tools.
+
+
 Preferred Device:
-Smartphone (wants quick access to her workout and progress).
+Smartphone.
+
+
 Persona 2: Health Enthusiast (Customer)
 Name: Alex
 Age: 32
