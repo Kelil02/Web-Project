@@ -24,8 +24,8 @@ Challenges:
 
 
 Needs:
-An easy-to-use app to log workouts, set goals, and track progress.
-Nutrition tracking.
+1. An easy-to-use app to log workouts, set goals, and track progress.
+2. Nutrition tracking.
 
 
 Tech Savviness:
