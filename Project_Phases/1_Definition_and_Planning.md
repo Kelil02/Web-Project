@@ -68,7 +68,49 @@
  
 
 ## 2. Use Cases and User Flows
-*(Write use cases and user flows here.)*
+
+### Use Case 1: Gym Goer (Emma) - Log a Workout
+- **Scenario**: Emma logs her workout to track her progress.
+- **Steps**:
+  1. Open the app.
+  2. Go to the "Workouts" section.
+  3. Add workout details (exercises, sets, reps).
+  4. Save the workout and view progress over time.
+
+---
+
+### Use Case 2: Health Enthusiast (Alex) - Track Calories and Steps
+- **Scenario**: Alex wants to track his calories and steps.
+- **Steps**:
+  1. Open the app.
+  2. Log meals in the "Nutrition" section.
+  3. View daily calories and steps.
+  4. Check his progress toward health goals.
+
+---
+
+### Use Case 3: Personal Trainer (Mike) - Create a Workout Plan
+- **Scenario**: Mike creates a workout plan for a client.
+- **Steps**:
+  1. Open the app.
+  2. Select the client.
+  3. Add exercises and schedule sessions.
+  4. Save the plan and send reminders.
+
+---
+
+### User Flow 1: Gym Goer Logging a Workout
+- Open app → Log Workout → View progress.
+
+---
+
+### User Flow 2: Health Enthusiast Tracking Calories
+- Open app → Log meals → View daily summary.
+
+---
+
+### User Flow 3: Personal Trainer Creating a Workout Plan
+- Open app → Select Client → Create Plan → Send reminders.
 
 ## 3. UI Prototypes
 *(Add your UI prototypes here.)*
