@@ -1,17 +1,23 @@
 # Phase 1 - Definition and Planning
 
 ## 1. User Personas
-Persona 1: Gym Goer (Customer)
-Name: Emma
-Age: 26
-Occupation: Marketing Specialist
-Location: Helsinki
+
+Persona 1: 
+
+Gym Goer (Customer)
+
+Name: Emma          Age: 26          Occupation: Marketing Specialist          Location: Helsinki
+
 Goals:
-Wants to lose weight and build muscle.
-Needs a way to track her daily workouts and nutrition intake.
+
+1. Wants to lose weight and build muscle.
+2. Needs a way to track her daily workouts and nutrition intake.
+
 Challenges:
-Struggles to stick to a consistent workout routine.
-Needs motivation and tracking features to stay on track.
+
+1. Struggles to stick to a consistent workout routine.
+2. Needs motivation and tracking features to stay on track.
+
 Needs:
 An easy-to-use app to log workouts, set goals, and track progress.
 Nutrition tracking features to monitor calories and macros.
