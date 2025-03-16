@@ -2,69 +2,76 @@
 
 ## 1. User Personas
 
-### Persona 1: Gym Goer (Customer)
+### Persona 1: Employee (General Worker)
 
-- **Name**: Emma
-- **Age**: 26
-- **Occupation**: Marketing Specialist
+- **Name**: Ayman
+- **Age**: 22
+- **Occupation**: Customer Service Representative
 - **Location**: Helsinki
-- **Goals**: 
-  - Wants to lose weight and build muscle.
-  - Needs a way to track her daily workouts and nutrition intake.
-- **Challenges**: 
-  - Struggles to stick to a consistent workout routine.
-  - Needs motivation and tracking features to stay on track.
+- **Goals**:
+  - Wants to easily check his work schedule and clock in/out.
+  - Needs a simple way to apply for sick leave or vacation.
+  - Wants to keep track of company goals and progress.
+- **Challenges**:
+  - Sometimes forgets to clock in or out, leading to errors in timekeeping.
+  - Needs a simple interface to view his schedule and communicate with the boss.
 - **Needs**:
-  - An easy-to-use app to log workouts, set goals, and track progress.
-  - Nutrition tracking features to monitor calories and macros.
+  - A clear schedule view with the ability to check if he is working on a given day.
+  - A sick leave application system.
+  - Messaging system to communicate directly with the boss.
+  - A way to track company performance toward its goals.
 - **Tech Savviness**:
-  - Comfortable with using fitness apps and tracking tools.
+  - Comfortable with technology, but prefers a simple interface.
 - **Preferred Device**:
-  - Smartphone.
+  - Uses a smartphone and computer.
 
 ---
 
-### Persona 2: Health Enthusiast (Customer)
+### Persona 2: Boss (Manager)
 
-- **Name**: Alex
-- **Age**: 32
-- **Occupation**: Software Engineer
-- **Location**: Turku
-- **Goals**: 
-  - Wants to improve overall health through consistent exercise and healthy eating.
-  - Needs a way to track his steps, calories burned, and eating habits.
-- **Challenges**: 
-  - Finds it hard to keep track of his fitness and diet.
-  - Struggles with motivation to stay consistent.
-- **Needs**:
-  - A simple app that tracks steps, calories burned, and food intake.
-  - Motivational reminders and progress reports.
-- **Tech Savviness**:
-  - Highly tech-savvy and loves using apps for tracking health data.
-- **Preferred Device**:
-  - Smartphone.
-
----
-
-### Persona 3: Personal Trainer
-
-- **Name**: Mike
-- **Age**: 40
-- **Occupation**: Personal Trainer
+- **Name**: Kelil
+- **Age**: 22
+- **Occupation**: Department Manager
 - **Location**: Tampere
-- **Goals**: 
-  - Wants to help clients achieve fitness goals through structured training programs.
-  - Needs a way to track client progress, workouts, and nutrition.
-- **Challenges**: 
-  - Has a lot of clients and needs a centralized tool to manage them.
-  - Needs to keep track of each client’s progress and adjust their plans accordingly.
+- **Goals**:
+  - Wants to easily track employee schedules and availability.
+  - Needs to approve sick leave requests and communicate with employees.
+  - Wants to keep track of the team's performance and progress toward company goals.
+- **Challenges**:
+  - Needs to manage multiple employees' schedules and be sure everything is running smoothly.
+  - Needs a simple way to approve or reject leave requests and send company updates.
 - **Needs**:
-  - A feature to create personalized workout plans and track client progress.
-  - Ability to set up reminders for clients, as well as notes on their progress.
+  - A system for easily viewing employee schedules and leave requests.
+  - An easy-to-use messaging system to communicate with employees.
+  - A view of team goals and progress, as well as any updates or achievements.
 - **Tech Savviness**:
-  - Very tech-savvy, uses apps to manage clients and track their progress.
+  - Very comfortable with technology and needs an efficient system.
 - **Preferred Device**:
-  - Smartphone.
+  - Primarily uses a computer, but also uses a smartphone for quick checks.
+
+---
+
+### Persona 3: HR Manager
+
+- **Name**: Majd
+- **Age**: 20
+- **Occupation**: HR Manager
+- **Location**: Oulu
+- **Goals**:
+  - Wants to manage and approve all leave requests.
+  - Needs to monitor company goals and employee performance.
+  - Ensures the company is compliant with labor laws regarding working hours and leave.
+- **Challenges**:
+  - Needs a comprehensive view of all employee schedules and sick leave requests.
+  - Must track and approve numerous applications and requests from employees.
+- **Needs**:
+  - A centralized dashboard to view all employee data, schedules, and leave requests.
+  - A simple way to approve or reject sick leave or vacation time.
+  - A system for tracking company goals and performance.
+- **Tech Savviness**:
+  - Highly tech-savvy, comfortable using HR software and tools.
+- **Preferred Device**:
+  - Uses a computer for detailed work, but also checks data on a smartphone.
  
 
 ## 2. Use Cases and User Flows
