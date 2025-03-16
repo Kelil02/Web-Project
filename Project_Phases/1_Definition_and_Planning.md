@@ -201,30 +201,24 @@
 ### **Technical Design**
 
 #### **Back-End**:
-- **Node.js** with **Express**:
-  - Used for creating RESTful APIs to handle requests (e.g., checking schedules, applying for leave, etc.).
-  - Express simplifies handling routes, middleware, and setting up the server.
+- **Node.js** with **Express**: ( maybe )
 
 #### **Database**:
 - **SQLite**:
   - Lightweight database for storing employee schedules, leave requests, and company data.
   - Ideal for this project as it’s simple and doesn't require complex configurations.
-  - Can be easily used in local development.
-
+  - 
 #### **Front-End**:
 - **HTML & CSS**:
-  - HTML for structuring pages (forms, schedules, buttons, etc.).
+  - HTML for structuring pages.
   - CSS for styling the pages to ensure they’re minimal, modern, and easy to use.
-  - **Flexbox** or **CSS Grid** will be used for layout and responsiveness.
   
 - **JavaScript**:
-  - JavaScript will be used for making the website interactive (e.g., dynamic content updates, clocking in/out, leave requests).
-  - Plain **Vanilla JavaScript** will be used initially for DOM manipulation and AJAX requests.
+  - JavaScript will be used for making the website interactive.
   
 #### **Environment**:
 - **Docker**:
   - Docker will be used to create a containerized development environment.
-  - Allows the app to run in isolated containers and ensures consistency across different environments.
 
 ---
 
