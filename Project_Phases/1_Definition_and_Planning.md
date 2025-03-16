@@ -76,43 +76,85 @@
 
 ## 2. Use Cases and User Flows
 
-### Use Case 1: Gym Goer (Emma) - Log a Workout
-- **Scenario**: Emma logs her workout to track her progress.
+### Use Case 1: Employee (Ayman) - Check Work Schedule
+- **Scenario**: Ayman wants to check if he has a shift today.
 - **Steps**:
-  1. Open the app.
-  2. Go to the "Workouts" section.
-  3. Add workout details (exercises, sets, reps).
-  4. Save the workout and view progress over time.
+  1. Open the website.
+  2. Sign in to the system.
+  3. Navigate to the "Schedule" section.
+  4. View his work schedule for today (e.g., shift start and end times).
+  5. If necessary, check the schedules of his colleagues.
 
 ---
 
-### Use Case 2: Health Enthusiast (Alex) - Track Calories and Steps
-- **Scenario**: Alex wants to track his calories and steps.
+### Use Case 2: Employee (Ayman) - Apply for Sick Leave
+- **Scenario**: Ayman is sick and needs to apply for sick leave.
 - **Steps**:
-  1. Open the app.
-  2. Log meals in the "Nutrition" section.
-  3. View daily calories and steps.
-  4. Check his progress toward health goals.
+  1. Open the website.
+  2. Sign in to the system.
+  3. Navigate to the "Leave" section.
+  4. Select "Sick Leave" and fill in the required information (dates, reason).
+  5. Submit the request.
+  6. Wait for approval from HR or his manager.
 
 ---
 
-### Use Case 3: Personal Trainer (Mike) - Create a Workout Plan
-- **Scenario**: Mike creates a workout plan for a client.
+### Use Case 3: Manager (Kelil) - Approve Leave Requests
+- **Scenario**: Kelil needs to approve a sick leave request from an employee.
 - **Steps**:
-  1. Open the app.
-  2. Select the client.
-  3. Add exercises and schedule sessions.
-  4. Save the plan and send reminders.
+  1. Open the website.
+  2. Sign in to the system.
+  3. Navigate to the "Leave Requests" section.
+  4. Review employee sick leave requests.
+  5. Approve or reject the request.
+  6. Notify the employee about the decision.
 
 ---
 
-### User Flow 1: Gym Goer Logging a Workout
-- Open app → Log Workout → View progress.
+### Use Case 4: HR Manager (Majd) - Monitor Company Goals
+- **Scenario**: Majd needs to check the company's progress toward its goals.
+- **Steps**:
+  1. Open the website.
+  2. Sign in to the system.
+  3. Navigate to the "Company Goals" section.
+  4. View the progress bar showing the current progress toward company goals.
+  5. Check any recent achievements or areas where the company is behind.
 
 ---
 
-### User Flow 2: Health Enthusiast Tracking Calories
-- Open app → Log meals → View daily summary.
+### Use Case 5: Employee (Ayman) - Register Arrival and Departure Time
+- **Scenario**: Ayman needs to clock in and clock out for his shift.
+- **Steps**:
+  1. Open the website.
+  2. Sign in to the system.
+  3. Click the "Clock In" button when he arrives at work.
+  4. Click the "Clock Out" button when he finishes his shift.
+  5. Review his total work hours for the day.
+
+---
+
+### User Flow 1: Employee Checking Work Schedule
+1. **Start**: Open app → Sign in → View Schedule → Check today's shift → (Optional) View colleagues' schedules.
+
+---
+
+### User Flow 2: Employee Applying for Sick Leave
+1. **Start**: Open app → Sign in → Navigate to "Leave" → Apply for Sick Leave → Submit → Await approval.
+
+---
+
+### User Flow 3: Manager Approving Leave Requests
+1. **Start**: Open app → Sign in → Navigate to "Leave Requests" → Review requests → Approve/Reject request → Notify employee.
+
+---
+
+### User Flow 4: HR Manager Monitoring Company Goals
+1. **Start**: Open app → Sign in → Navigate to "Company Goals" → View progress → Check updates.
+
+---
+
+### User Flow 5: Employee Registering Arrival and Departure Time
+1. **Start**: Open app → Sign in → Click "Clock In" → Work → Click "Clock Out" → View total work hours.
 
 ---
 
