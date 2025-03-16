@@ -3,5 +3,5 @@
 | Date       | Hours Spent | Tasks Performed                      | Outcome                  |
 |------------|-------------|--------------------------------------|--------------------------|
 | 15.3.2025  | 4           | Planning Phase 1                     |                          |
-| (add more) |             |                                      |                          |
+| 16.3.2025  | 2           | Planning Phase 1                     |                          |
 
