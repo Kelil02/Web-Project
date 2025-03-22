@@ -222,10 +222,6 @@
 
 ---
 
-
-## 5. Project Management and User Testing
-
-simple_project_management_and_testing_content = """
 ## 5. Project Management and User Testing
 
 ### **Project Phases**
