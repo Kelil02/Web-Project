@@ -163,8 +163,8 @@
 
 ## 3. UI Prototypes
 
-![Näyttökuva 2025-03-22 132203](https://github.com/user-attachments/assets/b5839c2f-8869-4b51-ba32-7e17b3ec3da9)
 ![Näyttökuva 2025-03-22 132145](https://github.com/user-attachments/assets/e7796fa3-2f9f-402c-b630-2b314aabf318)
+![Näyttökuva 2025-03-22 132203](https://github.com/user-attachments/assets/b5839c2f-8869-4b51-ba32-7e17b3ec3da9)
 
 
 *(Add your UI prototypes here.)*
