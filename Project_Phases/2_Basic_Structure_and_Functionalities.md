@@ -4,7 +4,19 @@
 Tein kehitystyön omalla paikallisella koneellani käyttäen Node.js:ää ja SQLite-tietokantaa. Käytin VS Codea koodin kirjoittamiseen ja testaamiseen. Sain apua tekoälyltä Dockerin käyttöönotossa, mutta en täysin ymmärtänyt sen toimintaa loppuun asti. Vaikka käytin Dockeria kehityksen alkuvaiheessa, päätin lopulta ajaa sovelluksen komennolla `npm start`, koska halusin välttää pysyvien tallennusvoluumien aiheuttamat ongelmat.
 
 ## 2. Backend
-*(Backend technology.)*
+Käytin Node.js:ää ja Expressiä back-end-kehykseksi. Rakensin REST API -rajapinnan seuraaville toiminnoille:
+
+- Kellon sisään- ja uloskirjautuminen
+- Poissaolopyyntöjen lähetys ja haku
+- Työvuorojen katselu
+- Viestien lähetys ja haku chatissa
+
+Esimerkki:
+```js
+app.post('/api/clock-in', (req, res) => {
+  const { employee, shift, date } = req.body;
+  // tallennetaan tietokantaan
+});
 
 ## 3. Frontend
 *(Frontend technology.)*
