@@ -2,7 +2,7 @@
 
 ## 1. Environment
 Tein kehitystyön omalla paikallisella koneellani käyttäen Node.js:ää ja SQLite-tietokantaa. Käytin VS Codea koodin kirjoittamiseen ja testaamiseen. Sain apua tekoälyltä Dockerin käyttöönotossa, mutta en täysin ymmärtänyt sen toimintaa loppuun asti. Vaikka käytin Dockeria kehityksen alkuvaiheessa, päätin lopulta ajaa sovelluksen komennolla `npm start`, koska halusin välttää pysyvien tallennusvoluumien aiheuttamat ongelmat.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/d9b1154a-d2c6-492c-a98d-657eedd6b7ec)
 
 ## 2. Backend
 Käytin Node.js:ää ja Expressiä back-end-kehykseksi. Rakensin REST API -rajapinnan seuraaville toiminnoille:
