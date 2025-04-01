@@ -88,3 +88,12 @@ Testasin kaikki toiminnot käsin lomakkeiden kautta ja tarkistin tallennukset SQ
 Loin modernin, minimalistisen ja responsiivisen käyttöliittymän dark mode -teemalla. Lisäsin ikonit, navigointilinkit ja visuaalista ilmettä nykyaikaisilta verkkosivustoilta saadun inspiraation pohjalta. Käytössä on myös modaalikomponentti, jolla voi tarkastella työvuoron tarkempia tietoja.
 
 ---
+
+
+## 10. Jatkokehitys – Vaihe 3
+
+Vaiheessa 3 aion lisätä sovellukseen lisää ominaisuuksia kuten vaalean ja tumman tilan vaihtamisen (nyt käytössä on vain dark mode). Yritin jo tässä vaiheessa tehdä kirjautumis- ja rekisteröitymistoimintoja, mutta se osoittautui liian vaikeaksi ja olin lähellä menettää koko tietokannan kokeillessani sitä.
+
+Haluan myös optimoida koodia ja toiminnallisuuksia paremmiksi, ja otan mielelläni sinun (opettaja) palautteen huomioon seuraavaa vaihetta varten.
+
+---
