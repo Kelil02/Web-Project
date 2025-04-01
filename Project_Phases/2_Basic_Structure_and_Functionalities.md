@@ -1,7 +1,7 @@
 # Phase 2 - Basic Structure and Main Functionalities
 
 ## 1. Environment
-*(Document your environment choice.)*
+Tein kehitystyön omalla paikallisella koneellani käyttäen Node.js:ää ja SQLite-tietokantaa. Käytin VS Codea koodin kirjoittamiseen ja testaamiseen. Sain apua tekoälyltä Dockerin käyttöönotossa, mutta en täysin ymmärtänyt sen toimintaa loppuun asti. Vaikka käytin Dockeria kehityksen alkuvaiheessa, päätin lopulta ajaa sovelluksen komennolla `npm start`, koska halusin välttää pysyvien tallennusvoluumien aiheuttamat ongelmat.
 
 ## 2. Backend
 *(Backend technology.)*
