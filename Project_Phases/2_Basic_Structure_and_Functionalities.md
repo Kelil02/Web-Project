@@ -54,6 +54,9 @@ Esimerkki:
 db.run(`CREATE TABLE IF NOT EXISTS leave_requests (...);`);
 ```
 
+![image](https://github.com/user-attachments/assets/b7ae001d-7897-42e2-992d-6764785871cf)
+
+
 ## 5. Perusrakenne ja Arkkitehtuuri
 
 Projektilla on selkeä kansiorakenne:
