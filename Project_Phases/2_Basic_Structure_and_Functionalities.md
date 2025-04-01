@@ -12,12 +12,12 @@ Käytin Node.js:ää ja Expressiä back-end-kehykseksi. Rakensin REST API -rajap
 - Viestien lähetys ja haku chatissa
 
 Esimerkki:
-``js
+```js
 app.post('/api/clock-in', (req, res) => {
   const { employee, shift, date } = req.body;
   // tallennetaan tietokantaan
 });
-
+```
 ## 3. Frontend
 Pyysin tekoälyä auttamaan myös käyttöliittymän animointien lisäämisessä. Animaatiot tekevät käyttöliittymästä elävämmän ja modernimman.
 
