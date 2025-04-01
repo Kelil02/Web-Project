@@ -12,14 +12,28 @@ Käytin Node.js:ää ja Expressiä back-end-kehykseksi. Rakensin REST API -rajap
 - Viestien lähetys ja haku chatissa
 
 Esimerkki:
-```js
+``js
 app.post('/api/clock-in', (req, res) => {
   const { employee, shift, date } = req.body;
   // tallennetaan tietokantaan
 });
 
 ## 3. Frontend
-*(Frontend technology.)*
+Pyysin tekoälyä auttamaan myös käyttöliittymän animointien lisäämisessä. Animaatiot tekevät käyttöliittymästä elävämmän ja modernimman.
+
+Rakensin yksisivuisen sovelluksen käyttämällä pelkkää HTML:ää, CSS:ää (oma dark mode -teema) ja vanilla JavaScriptiä. Käyttöliittymässä käyttäjä voi:
+
+Kellottaa sisään
+
+Lähettää poissaolopyynnön
+
+Tarkastella työvuoroja
+
+Lähettää ja lukea viestejä
+
+Lukea uutisvirtaa
+
+Esimerkki lomakkeen lähetyksestä:
 
 ## 4. Database
 *(Database technology.)*
