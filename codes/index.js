@@ -1,20 +1,17 @@
 const express = require('express');
-const db = require('./db'); // Import the SQLite database connection
+const db = require('./db'); 
 const app = express();
 const port = 3000;
 
-// Middleware to parse JSON bodies
 app.use(express.json());
 
-// Serve static files from the 'public' folder
 app.use(express.static('public'));
 
-// Root endpoint: check if the API is working
 app.get('/', (req, res) => {
   res.send('Welcome to the Company Portal API');
 });
 
-// Clock In Route: expects employee, shift, and date in the request body
+// Clock In 
 app.post('/api/clock-in', (req, res) => {
   const { employee, shift, date } = req.body;
   const sql = `INSERT INTO schedules (employee, shift, date) VALUES (?, ?, ?)`;
@@ -27,7 +24,7 @@ app.post('/api/clock-in', (req, res) => {
   });
 });
 
-// Clock Out Route: similar to clock in for now; can be expanded later
+// Clock Out
 app.post('/api/clock-out', (req, res) => {
   const { employee, shift, date } = req.body;
   const sql = `INSERT INTO schedules (employee, shift, date) VALUES (?, ?, ?)`;
@@ -40,7 +37,7 @@ app.post('/api/clock-out', (req, res) => {
   });
 });
 
-// Get Schedule Route: returns all schedule entries from the database
+// Get Schedule
 app.get('/api/schedule', (req, res) => {
   const sql = `SELECT * FROM schedules`;
   db.all(sql, [], (err, rows) => {
@@ -52,7 +49,7 @@ app.get('/api/schedule', (req, res) => {
   });
 });
 
-// Leave Request Route: expects employee, type, start_date, end_date, and reason in the request body
+// Leave Request
 app.post('/api/leave', (req, res) => {
   const { employee, type, start_date, end_date, reason } = req.body;
   const sql = `INSERT INTO leave_requests (employee, type, start_date, end_date, reason) VALUES (?, ?, ?, ?, ?)`;
@@ -65,12 +62,12 @@ app.post('/api/leave', (req, res) => {
   });
 });
 
-// News Feed Route: returns static news items for now
+// News
 app.get('/api/news', (req, res) => {
   res.json({ news: ["Employee of the Month: Ayman", "New product launch next month!"] });
 });
 
-// Chat Route: expects sender, recipient, and message in the request body
+// Chat
 app.post('/api/chat', (req, res) => {
   const { sender, recipient, message } = req.body;
   const sql = `INSERT INTO chat_messages (sender, recipient, message) VALUES (?, ?, ?)`;
@@ -84,7 +81,7 @@ app.post('/api/chat', (req, res) => {
   });
 });
 
-// Chat History Retrieval Route: returns all chat messages, sorted by newest first
+// Chat History
 app.get('/api/chat', (req, res) => {
   const sql = `SELECT * FROM chat_messages ORDER BY timestamp DESC`;
   db.all(sql, [], (err, rows) => {
