@@ -37,7 +37,7 @@ Esimerkki lomakkeen lähetyksestä:
 ```js
 document.getElementById('clockInForm').addEventListener('submit', function(e) {
   e.preventDefault();
-  // fetch('/api/clock-in', ...)
+  
 });
 ```
 
