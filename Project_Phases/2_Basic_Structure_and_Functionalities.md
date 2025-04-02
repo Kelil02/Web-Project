@@ -86,7 +86,17 @@ Nimesin muuttujat selkeästi ja lisäsin kommentteja koodin ymmärtämisen tueks
 
 ## 8. Testaus ja Virheenkäsittely
 
-Testasin kaikki toiminnot käsin lomakkeiden kautta ja tarkistin tallennukset SQLite-tietokannasta Visual Studio Coden laajennuksella. Jos lomakkeen lähetys epäonnistuu, käyttöliittymä näyttää virheilmoituksen. Virheet logitetaan myös palvelimen konsoliin.
+Testasin kaikki toiminnot käsin lomakkeiden kautta ja tarkistin tallennukset SQLite-tietokannasta Visual Studio Coden laajennuksella. 
+
+- Kellon sisäänkirjaus: testattu useilla nimillä ja vuoroilla.
+- Poissaolopyynnön lähetys: testattu virheellisellä ja oikealla lomaketiedolla.
+- Viestien lähetys chatissa: testattu useita kertoja.
+- Työvuorojen tarkastelu ja modaalin toiminta: testattu mobiililla ja desktopilla.
+
+Virheenkäsittely:
+- Lomakkeiden lähetyksissä virheilmoitukset näytetään käyttöliittymässä.
+- Palvelimen virheet logitetaan konsoliin (`console.error()`).
+- Syötteet validoidaan ennen tallennusta (esim. tyhjiä kenttiä ei hyväksytä).
 
 ## 9. Käyttöliittymä ja Vuorovaikutus
 
