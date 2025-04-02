@@ -90,7 +90,7 @@ Testasin kaikki toiminnot käsin lomakkeiden kautta ja tarkistin tallennukset SQ
 
 ## 9. Käyttöliittymä ja Vuorovaikutus
 
-Loin modernin, minimalistisen ja responsiivisen käyttöliittymän dark mode -teemalla. Lisäsin ikonit, navigointilinkit ja visuaalista ilmettä nykyaikaisilta verkkosivustoilta saadun inspiraation pohjalta. Käytössä on myös modaalikomponentti, jolla voi tarkastella työvuoron tarkempia tietoja.
+Loin modernin, minimalistisen ja responsiivisen käyttöliittymän dark mode -teemalla. Lisäsin ikonit, navigointilinkit ja visuaalista ilmettä nykyaikaisilta verkkosivustoilta saadun inspiraation pohjalta.
 
 ---
 
