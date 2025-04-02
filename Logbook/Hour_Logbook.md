@@ -12,4 +12,5 @@
 | 28.3.2025  | 3           | Planning Phase 2                     |   frontend done          |
 | 29.3.2025  | 2           | Planning Phase 2                     |   backend under developing            |
 | 1.4.2025  | 5           | Planning Phase 2                     |   backend done            |
+| 2.4.2025  | 1          | Planning Phase 2                     |   Phase 2 done          |
 
