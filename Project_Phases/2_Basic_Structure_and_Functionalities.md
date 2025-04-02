@@ -18,7 +18,6 @@ Esimerkki:
 ```js
 app.post('/api/clock-in', (req, res) => {
   const { employee, shift, date } = req.body;
-  // tallennetaan tietokantaan
 });
 ```
 ### 3. Frontend
