@@ -1,5 +1,18 @@
 # Vaihe 3
 
+Alun perin kaikki toiminnot olivat yhdessä HTML-sivussa.
+Projekti jaettiin selkeämmin neljään erilliseen sivuun:
+
+main.html – Pääsivu ja chat.
+leave.html – Poissaolopyyntöjen hallinta.
+schedule.html – Työvuorojen tarkastelu.
+news.html – Yrityksen uutisvirta ja tavoitteet.
+
+Tämä paransi:
+Sivujen latausnopeutta
+Navigointia ja käytettävyyttä
+Projektin rakenteellista selkeyttä
+
 ### 1.1 dark and light mode
 
 - Lisätty teeman vaihtopainike, jolla käyttäjä voi vaihtaa vaalean ja tumman tilan välillä.
