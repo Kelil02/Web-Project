@@ -70,8 +70,6 @@
 | ------------------------------------------- | -------------------------- |
 | Kirjautuminen oikeilla tiedoilla            | Onnistui                   |
 | Kirjautuminen väärillä tiedoilla            | Virheilmoitus näkyy        |
-![image](https://github.com/user-attachments/assets/f8ddf6ad-eeb7-42e8-aa46-8adf8779b110)
-
 | Rekisteröityminen uudella käyttäjänimellä   | Onnistui                   |
 | Rekisteröityminen olemassa olevalla nimellä | Virheilmoitus              |
 | Teeman vaihto (vaalea/tumma)                | Toimii ja muistaa valinnan |
@@ -82,4 +80,8 @@
 | Istunnon jatkuvuus sivuilla                 | Onnistui                   |
 
 ---
+
+Login ja signup otettin tästä.
+
+https://github.com/jaredhanson/passport.git
 
