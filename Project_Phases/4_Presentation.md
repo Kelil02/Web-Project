@@ -68,7 +68,7 @@ Tämä projekti on yrityksen sisäinen työtila, jossa työntekijät voivat tark
 
 **Jatkokehitysideoita:**
 
-- Reaaliaikainen chat WebSocketeilla.
+- chat ominaisuus paranettu.
 - Profiilisivun lisäys työntekijöille.
 - Parempi uloskirjautumisen hallinta ja ilmoitukset.
 
