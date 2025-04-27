@@ -4,8 +4,6 @@
 |-------------|-------|----------------------------------------------------|----------------------------------|
 | 15.3.2025   | 4     | Planning Phase 1                                   | User personas and use cases done |
 | 16.3.2025   | 2     | Continued Phase 1 planning                         |                                  |
-| 18.3.2025   | 2     | Continued Phase 1 planning                         |                                  |
-| 20.3.2025   | 2     | Continued Phase 1 planning                         |                                  |
 | 22.3.2025   | 1     | Finalized Phase 1                                  | Phase 1 complete                 |
 | 26.3.2025   | 4     | Started Phase 2 - frontend & Docker setup          |                                  |
 | 27.3.2025   | 3     | Backend development                                |                                  |
