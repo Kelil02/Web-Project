@@ -99,3 +99,5 @@ Tämä projekti on yrityksen sisäinen työtila, jossa työntekijät voivat tark
 
 **Yhteensä:** 51 tuntia
 
+video esittely 
+**https://drive.google.com/file/d/1Zs_LrDiOF1jEUfeY_1yHiBQK-wMjE8dq/view?usp=sharing**
