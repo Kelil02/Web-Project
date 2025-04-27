@@ -1,17 +1,17 @@
 # Vaihe 3
 
-Alun perin kaikki toiminnot olivat yhdessä HTML-sivussa.
-Projekti jaettiin selkeämmin neljään erilliseen sivuun:
+## 4. HTML-sivujen jako useaan tiedostoon
 
-main.html – Pääsivu ja chat.
-leave.html – Poissaolopyyntöjen hallinta.
-schedule.html – Työvuorojen tarkastelu.
-news.html – Yrityksen uutisvirta ja tavoitteet.
-
-Tämä paransi:
-Sivujen latausnopeutta
-Navigointia ja käytettävyyttä
-Projektin rakenteellista selkeyttä
+- Aluksi kaikki toiminnot olivat yhdellä HTML-sivulla.
+- Projekti jaettiin selkeästi neljään erilliseen sivuun:
+  - `main.html` – Pääsivu ja chat.
+  - `leave.html` – Poissaolopyyntöjen hallinta.
+  - `schedule.html` – Työvuorojen tarkastelu.
+  - `news.html` – Yrityksen uutisvirta ja tavoitteet.
+- Tämä paransi:
+  - Sivujen latausnopeutta
+  - Navigointia ja käytettävyyttä
+  - Projektin rakenteellista selkeyttä
 
 ### 1.1 dark and light mode
 
