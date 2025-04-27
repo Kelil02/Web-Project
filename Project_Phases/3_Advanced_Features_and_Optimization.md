@@ -1,14 +1,12 @@
-# Vaihe 3 - Kehittyneet ominaisuudet ja optimointi
+# Vaihe 3
 
-## 1. Lisätyt ominaisuudet
-
-### 1.1 Vaalea ja tumma tila -valinta
+### 1.1 dark and light mode
 
 - Lisätty teeman vaihtopainike, jolla käyttäjä voi vaihtaa vaalean ja tumman tilan välillä.
 - Käyttäjän valinta tallennetaan paikallisesti `localStorage`-muistiin.
 - CSS-muuttujien käyttö helpottaa teemojen hallintaa.
 
-### 1.2 Käyttäjätunnistautuminen (Kirjautuminen ja Rekisteröityminen)
+### 1.2 (Kirjautuminen ja Rekisteröityminen)
 
 - Integroitu käyttäjätunnistautuminen **Passport.js**-kirjastolla ja **passport-local** -strategialla.
 - Salasanat tallennetaan turvallisesti **bcrypt**-kirjaston avulla hajautettuna.
@@ -17,7 +15,7 @@
 - Kirjautuminen ulos tyhjentää session ja palauttaa käyttäjän.
 - Autentikoinnin tila tarkistetaan dynaamisesti `/auth/status`-rajapinnan avulla.
 
-### 1.3 Käyttöliittymän (UI) parannukset
+### 1.3 (UI) parannukset
 
 - Kaikki HTML-sivut (`main.html`, `leave.html`, `schedule.html`, `news.html`) modernisoitiin ja yhtenäistettiin.
 - Lisätty animaatioita painikkeisiin, modaaleihin ja hover-efekteihin.
@@ -36,7 +34,7 @@
 
 ---
 
-## 2. Päivitetty arkkitehtuurikatsaus
+## 2. Päivitetty
 
 ### Backend
 
