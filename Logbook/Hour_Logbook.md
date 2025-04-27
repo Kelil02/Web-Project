@@ -10,7 +10,7 @@
 | 28.3.2025   | 3     | Frontend completed                                 |                                  |
 | 29.3.2025   | 2     | Backend continued                                  |                                  |
 | 1.4.2025    | 5     | Backend completed                                  |                                  |
-| 2.4.2025    | 10    | Phase 2        |                  |
+| 2.4.2025    | 2    | Phase 2        |                  |
 | 5.4.2025    | 3     | Phase 2  |                                  |
 | 7.4.2025    | 4     | Phase 2         |       Phase 2 complete                           |
 | 10.4.2025   | 3     | UI improvements      |                                  |
