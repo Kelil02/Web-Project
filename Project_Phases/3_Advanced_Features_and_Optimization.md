@@ -7,7 +7,7 @@
   - `main.html` – Pääsivu ja chat.
   - `leave.html` – Poissaolopyyntöjen hallinta.
   - `schedule.html` – Työvuorojen tarkastelu.
-  - `news.html` – Yrityksen uutisvirta ja tavoitteet.
+  - `news.html` – Yrityksen uutisia ja tavoitteet.
 - Tämä paransi:
   - Sivujen latausnopeutta
   - Navigointia ja käytettävyyttä
