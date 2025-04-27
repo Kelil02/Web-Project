@@ -23,7 +23,7 @@ Tämä projekti on yrityksen sisäinen työtila, jossa työntekijät voivat tark
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js
 - **Tietokanta:** SQLite
-- **Autentikointi:** Passport.js ja bcrypt salasanan hajautukseen
+- **auth:** Passport.js ja bcrypt salasanan hajautukseen
 - **Docker:** Ympäristön alustava käyttö
 - **Tumma/vaalea tila:** Tallennus selaimen localStorageen
 
