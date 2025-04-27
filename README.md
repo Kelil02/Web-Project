@@ -9,8 +9,8 @@ This is a Node.js + Express web application that allows company employees to man
 - 🔒 Clock-in / Clock-out functionality
 - 📅 View and manage work schedules
 - ✉️ Submit and track leave requests
-- 💬 Chat with coworkers (real-time style)
-- 📰 Static news feed display
+- 💬 Chat with coworkers
+- 📰 news feed display
 - 🌙 Dark mode user interface with minimal, modern design
 
 ---
@@ -23,6 +23,3 @@ This is a Node.js + Express web application that allows company employees to man
 - **Environment:** Local machine development
 
 ---
-
-## 📁 Project Structure
-
