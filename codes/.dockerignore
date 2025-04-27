@@ -1,0 +1,14 @@
+# .dockerignore
+node_modules
+npm-debug.log*
+*.log
+.git
+.gitignore
+.env
+Dockerfile
+README.md
+node_modules
+npm-debug.log
+*.sqlite
+*.db
+.env

@@ -1,0 +1,7 @@
+# .gitignore
+node_modules/
+.env
+company.db # Usually you don't commit the database itself, unless it's seed data
+npm-debug.log*
+*.log
+.DS_Store
